@@ -1,0 +1,68 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.about-section{
+    width: 100%;
+    background: #f1f1f1;
+    padding: 40px 0;
+
+}
+.inner-width{
+    max-width: 1000px;
+    overflow: hidden;
+    padding: 0 20px;
+    margin: auto;
+}
+.about-section h1{
+    padding-left: 80px;
+    background-image: url("https://res.cloudinary.com/adaeze123/image/upload/v1570189786/networthbgimage_gu0i9l.jpg");
+}
+.border{
+    width: 150px;
+    height: px;
+    background: black;
+    margin:50 px auto;
+}
+.about-section-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about-section-col{
+    flex: 50%;
+}
+about-section{
+    width: 100%;
+    background: #f1f1f1;
+}
+.inner-width{
+    max-width: 1000px;
+    overflow: hidden;
+    padding: 0 20px;
+    margin: auto;
+}
+.about-section h2{
+    text-align: center;
+    background-color: #000000
+}
+.border{
+    width: 150px;
+    height: px;
+    background: black;
+    margin:50 px auto;
+}
+.about-section-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about-section-col{
+    flex: 50%;
+}
+.img{
+    width: 200px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 5px;
+}
